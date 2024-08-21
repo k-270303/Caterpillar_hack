@@ -32,11 +32,7 @@ Provides daily workload recommendations based on:
 
 The feature assesses the impact of workload recommendations on the overall plan and suggests additional machinery or order times if critical deadlines are at risk.
 
-## Getting Started
-To get started with the project, clone this repository and follow the setup instructions in the [INSTALL.md](INSTALL.md) file.
 
-## Contributing
-We welcome contributions! Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines to get involved.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
