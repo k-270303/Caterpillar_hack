@@ -10,6 +10,7 @@ This feature helps users plan their work schedule efficiently. By inputting the 
 Critical: The system ensures deadlines are met, recommending advance orders for spare parts and equipment.
 Hard: Allows for a maximum 5-day extension, with recommendations for spare parts and equipment after the extension period.
 Soft: If failure probability exceeds 50%, the system advises extending the deadline to keep downtime under 30%.
+
 3. Daily Diagnosis
 This feature provides daily workload recommendations for each asset based on the day's weather, backlog, machine name, initial KPIs, and assigned tasks. It assesses the impact of the recommended workload on the overall plan and suggests additional machinery or order times if a critical deadline is at risk.
 
