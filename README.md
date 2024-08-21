@@ -32,5 +32,8 @@ Provides daily workload recommendations based on:
 
 The feature assesses the impact of workload recommendations on the overall plan and suggests additional machinery or order times if critical deadlines are at risk.
 
+### 4. Daily Live Demo here:
+https://efc9-34-81-87-251.ngrok-free.app/
+
 ## Contact
 For questions or feedback, please reach out to [khushsanghavi2003@gmail.com](mailto:khushsanghavi2003@gmail.com).
