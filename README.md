@@ -13,9 +13,3 @@ Design an **analytics-driven maintenance optimization system** that:
 - Predicts failures before they occur.  
 - Dynamically schedules preventive tasks.  
 - Balances asset availability, deadlines, and operating conditions.  
-
----
-
-## 🚀 Solution Overview  
-
-The system was designed around
