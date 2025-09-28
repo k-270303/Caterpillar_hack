@@ -1,39 +1,21 @@
-# Caterpillar_hack
+# Vehicle Maintenance Optimization System  
 
-## Vehicle Maintenance Optimization Project
+## 📌 Problem Context  
+Heavy machinery and vehicle fleets (construction, mining, logistics, etc.) require rigorous and proactive maintenance. Traditional approaches often face challenges such as:  
 
-Welcome to the **Caterpillar_hack** project! This repository focuses on optimizing vehicle maintenance through advanced analytics and intelligent planning.
+- Unplanned downtime due to unexpected component failures.  
+- Inefficient scheduling of work orders across large fleets.  
+- Lack of contextual planning (e.g., weather, usage conditions).  
+- Reactive maintenance leading to higher costs and reduced availability.  
 
-## Features
+**Goal:**  
+Design an **analytics-driven maintenance optimization system** that:  
+- Predicts failures before they occur.  
+- Dynamically schedules preventive tasks.  
+- Balances asset availability, deadlines, and operating conditions.  
 
-### 1. Precautionary Alerts
-Analyze vehicle data to predict component failures. This feature provides:
-- **Insights** into parts prone to issues.
-- **Best Practices** for preventive maintenance.
-- **Visual Plot** comparing vehicle types and failure probabilities, helping identify sensitive parts and their potential causes.
+---
 
-### 2. Intelligent Work Planner
-Optimize work schedules by considering:
-- **Assets:** Number and type of vehicles.
-- **Deadlines:** Critical, Hard, and Soft:
-  - **Critical:** Ensures deadlines are met with advance orders for spare parts and equipment.
-  - **Hard:** Allows a maximum 5-day extension, with recommendations for spare parts and equipment thereafter.
-  - **Soft:** Advises extending deadlines if failure probability exceeds 50%, keeping downtime under 30%.
-- **Weather Conditions:** Adjusts plans based on forecast data.
-- **Work Type:** Tailors recommendations based on the nature of the work.
+## 🚀 Solution Overview  
 
-### 3. Daily Diagnosis
-Provides daily workload recommendations based on:
-- **Weather:** Current conditions.
-- **Backlog:** Pending tasks.
-- **Machine Name:** Specific asset details.
-- **Initial KPIs:** Key performance indicators like fuel and temperature.
-- **Assigned Tasks:** Tasks for the day.
-
-The feature assesses the impact of workload recommendations on the overall plan and suggests additional machinery or order times if critical deadlines are at risk.
-
-### 4.Live Demo here:
-https://efc9-34-81-87-251.ngrok-free.app/
-
-## Contact
-For questions or feedback, please reach out to [khushsanghavi2003@gmail.com](mailto:khushsanghavi2003@gmail.com).
+The system was designed around
